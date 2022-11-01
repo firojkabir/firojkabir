@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning & working on **Frontend frameworks**
 
-- 👨‍💻 All of my projects are available at [https://firojkabir.github.io/](https://firojkabir.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/firojkabir](https://github.com/firojkabir)
 
-- 💬 Ask me about **React, Angular, Svelte**
+- 💬 Ask me about **React, Angular, Svelte and frontend stuffs**
 
 - 📫 How to reach me **firoj.kabir65@gmail.com**
 
