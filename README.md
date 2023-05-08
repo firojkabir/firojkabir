@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning & working on **Frontend frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/firojkabir](https://github.com/firojkabir)
+- 👨‍💻 Some of my projects are available at [https://github.com/firojkabir](https://github.com/firojkabir)
 
 - 💬 Ask me about **React, Angular, Svelte and frontend stuffs**
 
 - 📫 How to reach me **firoj.kabir65@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/vDvD](https://t.ly/vDvD)
+- 📄 Know about my experiences [cv-firoj-kabir](https://t.ly/t5ghM)
 
 - ⚡ Fun fact **I think I'm a Mobile Photographer but don't tell anyone**
 
