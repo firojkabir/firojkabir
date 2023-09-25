@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firoj Kabir</h1>
-<h3 align="center">Frontend developer with experience in ReactJS, Angular and Svelte</h3>
+<h3 align="center">Software Developer with experience in ReactJS, Angular, NodeJS etc</h3>
 
-- 🌱 I’m currently learning & working on **Frontend frameworks**
+- 🌱 I’m currently learning & working on **JavaScript frameworks**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/firojkabir](https://github.com/firojkabir)
 
@@ -9,15 +9,15 @@
 
 - 📫 How to reach me **firoj.kabir65@gmail.com**
 
-- 📄 Know about my experiences [cv-firoj-kabir](https://t.ly/t5ghM)
+- 📄 Know about my experiences [cv-firoj-kabir](https://drive.google.com/file/d/1DxYAJu0ysURvZb0Nrvg61zCZUTEdIdgX/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm a Mobile Photographer but don't tell anyone**
+- ⚡ Fun fact **there is nothing funny to share**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/firojkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/firojkabir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/firojkabir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firojkabir/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13993372/mr-kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13993372/mr-kabir" height="30" width="40" /></a>
+<a href="https://dev.to/firojkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/firojkabir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/firojkabir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firojkabir/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13993372/mr-kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13993372/mr-kabir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
